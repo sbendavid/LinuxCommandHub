@@ -3,7 +3,8 @@ name: Bug Report
 about: Report an error, incorrect command, or inaccurate information
 title: "[BUG] "
 labels: bug
-assignees: ""
+assignees: ''
+
 ---
 
 ## Bug Description
