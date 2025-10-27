@@ -99,14 +99,14 @@ Help make this guide accessible to non-English speakers!
 2. **Clone your fork**
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/linux-command-mastery.git
+   git clone https://github.com/YOUR-USERNAME/LinuxCommandHub.git
    cd linux-command-mastery
    ```
 
 3. **Add upstream remote**
 
    ```bash
-   git remote add upstream https://github.com/ORIGINAL-OWNER/linux-command-mastery.git
+   git remote add upstream https://github.com/sbendavid/LinuxCommandHub.git
    ```
 
 4. **Create a branch**

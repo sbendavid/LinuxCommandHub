@@ -1352,7 +1352,7 @@ myproject/
 **Example 2: Date-based folders**
 
 ```bash
-mkdir -p backups/2024/{01,02,03,04,05,06,07,08,09,10,11,12}
+mkdir -p backups/2025/{01,02,03,04,05,06,07,08,09,10,11,12}
 ```
 
 **Example 3: Verbose creation**

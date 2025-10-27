@@ -907,7 +907,7 @@ journalctl -u servicename
 **Time range:**
 
 ```bash
-journalctl --since "2024-01-01" --until "2024-01-31"
+journalctl --since "2025-01-01" --until "2025-01-31"
 ```
 
 **Today only:**

@@ -1,0 +1,115 @@
+# LinuxCommandHub .gitignore
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+
+# Log files
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs (if we add website generation)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+dist/
+build/
+out/
+public/
+
+# Node modules (if we add any tooling)
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# Testing
+coverage/
+.nyc_output/
+.pytest_cache/
+
+# Documentation builds
+docs/_build/
+docs/.doctrees/
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Cache
+.cache/
+*.cache
+
+# Personal notes (developers may create these)
+NOTES.md
+TODO.md
+PERSONAL.md
+.notes/
+
+# Generated files
+*.pdf
+*.epub
+*.mobi
+
+# Compressed files (backups, etc.)
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Keys and secrets
+*.key
+*.pem
+*.cert
+id_rsa*
+*.gpg
+
+# Misc
+.history/

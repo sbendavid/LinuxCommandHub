@@ -665,7 +665,7 @@ $ pwd
 
 ```bash
 $ pwd
-/home/pete/Documents/work/2024/reports
+/home/pete/Documents/work/2025/reports
 $ cd ../../..
 $ pwd
 /home/pete/Documents
