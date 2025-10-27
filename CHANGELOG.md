@@ -262,6 +262,13 @@ When you contribute, add your changes to the [Unreleased] section:
 ```markdown
 ## [Unreleased]
 
+## [1.0.1] - 2025-10-27
+
+### Fixed
+
+- Updated maintainer contact information
+- Fixed broken internal links in README
+
 ### Added
 
 - Brief description of what you added [#IssueNumber]
