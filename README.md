@@ -79,7 +79,7 @@ This guide follows these principles:
 
 ## 📖 About the Author
 
-**Ben-David (BDofTech)** is a Backend Engineer and Cybersecurity Enthusiast who created BDofTech to help newcomers understand the foundational concepts of Linux. With hands-on experience in system administration and software development, he believes that learning the command line is essential for anyone aspiring to grow in the tech industry.
+**Ben-David (BDofTech)** is a Backend Engineer and Cybersecurity Enthusiast who created _Mastering Linux Commands – A Beginner's Study Guide_ to help newcomers understand the foundational concepts of Linux. With hands-on experience in system administration and software development, he believes that learning the command line is essential for anyone aspiring to grow in the tech industry.
 
 This guide represents a commitment to helping newcomers build confidence and competence in Linux environments. Every section is crafted with the beginner in mind, providing clear explanations, practical examples, and real-world context.
 
