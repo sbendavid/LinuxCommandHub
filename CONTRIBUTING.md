@@ -99,7 +99,7 @@ Help make this guide accessible to non-English speakers!
 2. **Clone your fork**
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/LinuxCommandHub.git
+   git clone https://github.com/sbendavid/LinuxCommandHub.git
    cd linux-command-mastery
    ```
 

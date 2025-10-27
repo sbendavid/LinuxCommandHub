@@ -282,14 +282,14 @@ Maintainers will:
 
 ## Links
 
-- [Repository](https://github.com/username/LinuxCommandHub)
-- [Issues](https://github.com/username/LinuxCommandHub/issues)
-- [Pull Requests](https://github.com/username/LinuxCommandHub/pulls)
-- [Releases](https://github.com/username/LinuxCommandHub/releases)
+- [Repository](https://github.com/sbendavid/LinuxCommandHub)
+- [Issues](https://github.com/sbendavid/LinuxCommandHub/issues)
+- [Pull Requests](https://github.com/sbendavid/LinuxCommandHub/pulls)
+- [Releases](https://github.com/sbendavid/LinuxCommandHub/releases)
 
 ---
 
 **Thank you to all contributors who made this project possible!** 🎉
 
-[Unreleased]: https://github.com/username/LinuxCommandHub/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/username/LinuxCommandHub/releases/tag/v1.0.0
+[Unreleased]: https://github.com/sbendavid/LinuxCommandHub/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/sbendavid/LinuxCommandHub/releases/tag/v1.0.0
